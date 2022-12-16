@@ -4,7 +4,7 @@ Tarefas desenvolvidas e trabalhadas ao longo da disciplina de sistemas embarcado
 Links para projetos no Tinkercad:
 - [Sinal de trânsito](https://www.tinkercad.com/things/cqZiBnmquDY-inf-351-sinal-com-delay/editel?sharecode=8amqkm1yjkt6Jg-5jGzq1_opUrOBXxqCrwtUhF2Ozps): Problema inicial, para primeiro contato com arduino resistores e LED's. Foram utilizados 6 resistores de 800 ohms, 6 leds, 1 arduino uno e um switch com resistor pull up para iniciar o sistema.
 
-- [Sinal de trânsito com função millis()](https://www.tinkercad.com/things/cqZiBnmquDY-inf-351-sinal-com-delay/editel?sharecode=8amqkm1yjkt6Jg-5jGzq1_opUrOBXxqCrwtUhF2Ozps): Outra solução para o problema inicial, mas com utilização da função millis que ao contrário da delay, não mantém a espera ocupada. Foram utilizados 6 resistores de 800 ohms, 6 leds, 1 arduino uno.
+- [Sinal de trânsito com função millis](https://www.tinkercad.com/things/3xfkNRFGMTQ-inf-351-sinal-com-milis/editel?sharecode=CDmlwx9dQJ_CN93Ar4F63e10F_NnETIlnzDdw1rKVIo): Outra solução para o problema inicial, mas com utilização da função millis que ao contrário da delay, não mantém a espera ocupada. Foram utilizados 6 resistores de 800 ohms, 6 leds, 1 arduino uno.
 
 - [Ledreg com Joystick Shield](https://embarcados.com.br/wp-content/uploads/2016/07/2016-07-04-16.49.45-e1467664974367-595x418.jpg) : Controlador de luminosidade para LED rgb, com possibiidade de alternar as cores pelos botões dispostos do lado direito do shield.
 ~~~C++
